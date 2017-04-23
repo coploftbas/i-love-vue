@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Header from './components/Header.react'
-import NewRepoForm from './components/NewRepoForm.react'
-import Dashboard from './pages/Dashboard.react'
+import NewRepoForm from 'components/NewRepoForm.react'
+import Dashboard from 'pages/Dashboard.react'
 
 class App extends Component {
   render() {
